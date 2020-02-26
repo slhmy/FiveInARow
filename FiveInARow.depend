@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1530411169 source:d:\windows程序设计\五子棋\fiveinarow\fiveinarow.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	"FiveInARow.h"
+
+1530411270 d:\windows程序设计\五子棋\fiveinarow\fiveinarow.h
+	<vector>
+
+1530351717 source:d:\windows程序设计\五子棋\fiveinarow\resource.rc
+	"resource.h"
+	<afxres.h>
+
+1530351717 d:\windows程序设计\五子棋\fiveinarow\resource.h
+
+1530411188 source:d:\windows程序设计\五子棋\fiveinarow\view.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<windowsx.h>
+	"View.h"
+	"resource.h"
+	"FiveInARow.h"
+
+1530281278 d:\windows程序设计\五子棋\fiveinarow\view.h
+	<vector>
+	<string>
+	<windows.h>
+	<commctrl.h>
+	"FiveInARow.h"
+
+1530411321 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋\fiveinarow.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	"FiveInARow.h"
+
+1530411270 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋\fiveinarow.h
+	<vector>
+
+1530351717 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋\resource.rc
+	"resource.h"
+	<afxres.h>
+
+1530351717 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋\resource.h
+
+1530411188 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋\view.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<windowsx.h>
+	"View.h"
+	"resource.h"
+	"FiveInARow.h"
+
+1530281278 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋\view.h
+	<vector>
+	<string>
+	<windows.h>
+	<commctrl.h>
+	"FiveInARow.h"
+
+1530496317 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋（1）\fiveinarow.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	"FiveInARow.h"
+
+1530496820 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋（1）\fiveinarow.h
+	<vector>
+
+1530496629 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋（1）\view.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<windowsx.h>
+	"View.h"
+	"resource.h"
+	"FiveInARow.h"
+
+1530281278 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋（1）\view.h
+	<vector>
+	<string>
+	<windows.h>
+	<commctrl.h>
+	"FiveInARow.h"
+
+1530491661 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋（1）\resource.h
+
+1530492983 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋（1）\resource.rc
+	"resource.h"
+	<afxres.h>
+
+1530536634 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋 - 副本\fiveinarow.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<iomanip>
+	"FiveInARow.h"
+
+1530536598 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋 - 副本\fiveinarow.h
+	<vector>
+
+1530500698 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋 - 副本\resource.rc
+	"resource.h"
+	<afxres.h>
+
+1530498885 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋 - 副本\resource.h
+
+1530500648 source:c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋 - 副本\view.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<windowsx.h>
+	"View.h"
+	"resource.h"
+	"FiveInARow.h"
+
+1530281278 c:\users\surpriserick\desktop\学习\计算机\win程序设计\五子棋 - 副本\view.h
+	<vector>
+	<string>
+	<windows.h>
+	<commctrl.h>
+	"FiveInARow.h"
+
+1530541256 source:c:\users\14848\documents\tencent files\1484836413\filerecv\五子棋\fiveinarow.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<iomanip>
+	"FiveInARow.h"
+
+1530540877 c:\users\14848\documents\tencent files\1484836413\filerecv\五子棋\fiveinarow.h
+	<vector>
+
+1530500698 source:c:\users\14848\documents\tencent files\1484836413\filerecv\五子棋\resource.rc
+	"resource.h"
+	<afxres.h>
+
+1530498885 c:\users\14848\documents\tencent files\1484836413\filerecv\五子棋\resource.h
+
+1530541128 source:c:\users\14848\documents\tencent files\1484836413\filerecv\五子棋\view.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<windowsx.h>
+	"View.h"
+	"resource.h"
+	"FiveInARow.h"
+
+1530281278 c:\users\14848\documents\tencent files\1484836413\filerecv\五子棋\view.h
+	<vector>
+	<string>
+	<windows.h>
+	<commctrl.h>
+	"FiveInARow.h"
+

@@ -1,0 +1,28 @@
+// resource.rc
+#include "resource.h"
+#include <afxres.h>
+
+// Menu
+FiveInARow MENU DISCARDABLE
+BEGIN
+	POPUP "&FiveInARow"
+	BEGIN
+		MENUITEM "Re&start\tF2",		IDM_RESTART
+		MENUITEM SEPARATOR
+		MENUITEM "E&xit\tESC",			IDM_EXIT
+	END
+	POPUP "&Game Modes"
+	BEGIN
+        MENUITEM "&Player vs Player",   IDM_Player_vs_Player
+        MENUITEM SEPARATOR
+        MENUITEM "&Player vs AI",       IDM_Player_vs_AI
+    END
+    POPUP "&Change Width"
+	BEGIN
+        MENUITEM "&ADD\tF9",           IDM_ADD_W
+        MENUITEM SEPARATOR
+        MENUITEM "&MINUS\tF8",          IDM_MINUS_W
+    END
+	MENUITEM "&Undo",					IDM_Undo
+	MENUITEM "&Help",					IDM_HELP
+END
